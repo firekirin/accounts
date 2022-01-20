@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.xmlgrab.com	TRUE	/	FALSE	1999999999	__cfduid	d61f605031e3ec0aaa4db4dfc555587401593266339
+xmlgrab.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
